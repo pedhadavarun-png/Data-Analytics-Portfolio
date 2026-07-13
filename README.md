@@ -33,8 +33,8 @@ Hi, I'm P.VARUN, an MBA graduate with a strong interest in Data Analytics. I hav
 - Critical Thinking
 - Attention to Detail
 
-- ## projects
-- 1. Excel Sales Analysis Dashboard
+## projects
+1. Excel Sales Analysis Dashboard
 Created an interactive sales dashboard using Advanced Excel with Pivot Tables, charts, and data analysis techniques to track sales performance, identify trends, and generate business insights.
 
 2. SQL Orders & Customers Analysis
